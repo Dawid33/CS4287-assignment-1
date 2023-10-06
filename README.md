@@ -31,8 +31,12 @@ Submit a Jupyter notebook with the code where:
 ## Possible Datasets
 
 [Hand written numbers (minst)](http://yann.lecun.com/exdb/mnist/)
+[Shannon airport weather data](https://www.kaggle.com/datasets/raghavs1003/shannon-airport-daily-data)
 
 ## TODO
 
 - [ ] Read the dataset into python
+- [ ] (Maybe?) Divide date into separate fields for year / month / day
+- [ ] Normalize data
+
 
