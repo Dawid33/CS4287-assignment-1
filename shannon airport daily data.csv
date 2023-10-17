@@ -1,4 +1,4 @@
-date,ind,maxtp,ind,mintp,igmin,gmin,ind,rain,cbl,wdsp,ind,hm,ind,ddhm,ind,hg,sun,dos,soil,pe,evap,smd_wd,smd_md,smd_pd
+date,ind,max_air_temp,ind,min_air_temp,igmin,grass_min_temp,ind,rain,mean_cbl_pressure,mean_wind_speed,ind,hm,ind,ddhm,ind,highest_gust,sun,dos,mean_soil_temp,potential_evaporation,evaporation,smd_wd,smd_md,smd_pd
 01-May-05,0,17,0,10.4,0,10.5,0,0.9,998.7,12.6,0,21,0,180,0,29,5.6,0,13.8,2.5,3.7,1.6,1.6,-7.8
 02-May-05,0,17.5,0,9.1,0,6.8,0,4.5,1000.5,7,0,17,0,170,0,21,3.3,0,13.55,2.6,3.6,0,-0.4,-9.4
 03-May-05,0,12.5,0,9.2,0,5.3,0,0.1,1011.4,9.2,0,19,0,310,0,27,0,0,12.55,1.7,2.3,1.6,1.6,-7.3
