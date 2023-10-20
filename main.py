@@ -6,6 +6,8 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.linear_model import LinearRegression
 from numpy import mean, std
 import csv
+
+
 import pandas as pd
 
 class Dataset:
